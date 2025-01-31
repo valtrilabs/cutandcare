@@ -272,7 +272,8 @@ a:focus {
     width: 100%;
     margin-bottom: 45px;
     height: calc(100vh - 60px);
-    background: #4f154c;
+    background: #a89332;
+    /*******Update color from #4f154c to #a89332)************************/
     overflow: hidden;
 }
 
